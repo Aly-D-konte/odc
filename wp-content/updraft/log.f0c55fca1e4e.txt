@@ -1,0 +1,25 @@
+0000.019 () Opened log file at time: Thu, 28 Jul 2022 09:07:11 +0000 on http://localhost/wordpresss
+0000.021 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.14 WP: 6.0.1 PHP: 7.3.29 (apache2handler, Windows NT DCIREODCPR4 10.0 build 22000 (Windows 10) AMD64) MySQL: 10.4.20-MariaDB (max packet size=1048576) WPLANG: fr_FR Server: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.3.29 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 97.2M | 14M) multisite: N openssl: OpenSSL 1.1.1k  25 Mar 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.021 () Free space on disk containing Updraft's temporary directory: 244305.5 MB
+0000.082 () Restore setup, now closing connection and starting restore over AJAX.
+0000.018 () Opened log file at time: Thu, 28 Jul 2022 09:07:15 +0000 on http://localhost/wordpresss
+0000.019 () UpdraftPlus WordPress backup plugin (https://updraftplus.com): 1.22.14 WP: 6.0.1 PHP: 7.3.29 (apache2handler, Windows NT DCIREODCPR4 10.0 build 22000 (Windows 10) AMD64) MySQL: 10.4.20-MariaDB (max packet size=1048576) WPLANG: fr_FR Server: Apache/2.4.48 (Win64) OpenSSL/1.1.1k PHP/7.3.29 safe_mode: 0 max_execution_time: 900 memory_limit: 512M (used: 95.1M | 52M) multisite: N openssl: OpenSSL 1.1.1k  25 Mar 2021 mcrypt: N LANG:  ZipArchive::addFile: Y
+0000.019 () Free space on disk containing Updraft's temporary directory: 244304.4 MB
+0000.041 () Ensuring WP_Filesystem is setup for a restore
+0000.045 () WP_Filesystem is setup and ready for a restore
+0000.072 () Restore job started. Entities to restore: themes. Restore options: {"updraft_encryptionphrase":"","updraft_restorer_wpcore_includewpconfig":false,"updraft_incremental_restore_point":-1}
+0000.086 () Entity: themes
+0000.086 () restore_backup(backup_file=backup_2022-07-27-1935__Orange_Digital_Center_04884f1b027a-themes.zip, type=themes, info=a:3:{s:4:"path";s:44:"C:\xampp\htdocs\wordpresss/wp-content/themes";s:11:"description";s:9:"Thèmes ";s:20:"singular_description";s:5:"Theme";}, last_one=1)
+0000.087 () Décompression de la sauvegarde… (backup_2022-07-27-1935__Orange_Digital_Center_04884f1b027a-themes.zip, 15.7 MB)
+0000.110 () Unzipping backup_2022-07-27-1935__Orange_Digital_Center_04884f1b027a-themes.zip to C:/xampp/htdocs/wordpresss/wp-content/upgrade/ec70526c/ using UpdraftPlus_ZipArchive, starting index 0
+0001.685 () Unzip progress: 766 out of 766 files (22 MB, themes/twentytwentytwo/theme.json)
+0001.696 () Moving old data: filesystem method / updraft_dir is potentially possible
+0001.699 () Moving old data: can potentially use wp_filesystem method / -old
+0001.703 () Mise de côté des anciennes données…
+0002.012 () Top-level entities being moved: althea-wp, index.php, twentytwenty, twentytwentyone, twentytwentytwo
+0002.023 () Déplacement de la sauvegarde décompressée…
+0002.200 () Top-level entities being moved: althea-wp, index.php, twentytwenty, twentytwentyone, twentytwentytwo
+0002.214 () Nettoyage…
+0002.228 () Elementor's clear cache method exists and will be executed
+0002.364 () Restore successful!
+0002.364 () Restore successful
